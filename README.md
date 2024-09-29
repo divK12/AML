@@ -1,6 +1,7 @@
-Classifier for Fashion MNIST: Task is to build a classifier for this dataset using CNN.
-a) Classify each image into one of 3 classes {clothes, shoes and others}. 
-b) Show the effect of permuting the image pixels on CNN classifiers.
-2) Build a Resnet-18 classifier for the Emotion Detection Dataset
-a) First train a classifier from scratch.
-b) Next, fine-tune a pretrained Resnet-18 on this dataset.
+# Fashion MNIST and Emotion Detection Classifier
+
+This repository contains implementations of two classification tasks using Convolutional Neural Networks (CNNs):
+1. Classifying the Fashion MNIST dataset into 3 classes: clothes, shoes, and others.
+2. Emotion Detection using the ResNet-18 architecture:
+   - Training from scratch.
+   - Fine-tuning a pretrained ResNet-18 model.
